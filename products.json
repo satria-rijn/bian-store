@@ -1,0 +1,11 @@
+[
+  {
+    "name": "test",
+    "author": "anonime",
+    "version": "1.0",
+    "price": "20.000",
+    "username": "admin",
+    "password": "rahasia123",
+    "token": "tokentopsecret987"
+  }
+]
